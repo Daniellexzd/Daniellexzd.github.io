@@ -12,7 +12,7 @@ profile:
     <p>8888 University Drive</p>
     <p>Burnaby, BC, Canada V5A 1S6</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
