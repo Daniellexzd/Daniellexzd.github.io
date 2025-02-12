@@ -398,28 +398,28 @@ ninja.data = [{
           section: "News",},{id: "news-a-first-author-study-on-accent-adaptation-has-been-accepted-for-presentation-at-new-sounds-2025",
           title: 'A first-author study on accent adaptation has been accepted for presentation at New...',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
+          section: "News",},{id: "projects-accent-adaptation-in-perception",
+          title: 'accent adaptation in perception',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-accent-adaptation-in-production",
+          title: 'accent adaptation in production',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-audio-visual-processing",
+          title: 'audio-visual processing',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-spoken-word-recognition",
+          title: 'spoken word recognition',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-music-perception-and-l2-learning",
+          title: 'music perception and L2 learning',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
