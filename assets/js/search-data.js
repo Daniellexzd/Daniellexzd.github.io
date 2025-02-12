@@ -398,12 +398,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-first-author-study-on-accent-adaptation-has-been-accepted-for-presentation-at-new-sounds-2025",
           title: 'A first-author study on accent adaptation has been accepted for presentation at New...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
+          section: "News",},{id: "projects-",
           title: '',
           description: "",
           section: "Projects",handler: () => {
