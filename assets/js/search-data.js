@@ -431,7 +431,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-project-1",
+    },{id: "news-a-first-author-paper-on-audio-visual-processing-has-been-published-in-plos-one",
+          title: 'A first-author paper on audio-visual processing has been published in PLOS One!',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
