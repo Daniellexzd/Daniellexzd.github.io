@@ -1,0 +1,240 @@
+{
+  "basics": {
+    "name": "Xizi Danielle Deng",
+    "email": "xizi_deng@sfu.ca",
+    "address": "8888 University Drive, Burnaby, BC, Canada V5A 1S6",
+    "url": "https://xizidanielledeng.com"
+  },
+  "education": [
+    {
+      "institution": "Simon Fraser University",
+      "location": "Burnaby, Canada",
+      "url": "https://www.sfu.ca/",
+      "area": "Linguistics",
+      "studyType": "PhD",
+      "startDate": "2020-09-05",
+      "endDate": "2025-06-30",
+      "courses": ["Accent adaptation",
+                     "Speech perception",
+                    "L2 acquisition",
+                    "L2 speech intelligibility",
+                    "Crosslinguistic influence"]
+    },
+    {
+      "institution": "Simon Fraser University",
+      "location": "Burnaby, Canada",
+      "url": "https://www.sfu.ca/",
+      "area": "Linguistics",
+      "studyType": "Master of Arts",
+      "startDate": "2017-09-05",
+      "endDate": "2020-04-27",
+      "courses": ["Spoken word recognition",
+                     "Contextual effects",
+                    "Tone and vowel processing",
+                    "Eye-tracking",
+                    "Mandarin Chinese"]
+    }
+  ],
+    
+   "publications": [
+     {
+      "name": "Visual scanning patterns of a talking face when evaluating phonetic information in a native and non-native language",
+      "publisher":"PLOS One",
+      "releaseDate": "2024-05-28",
+      "url": "https://doi.org/10.1371/journal.pone.0304150"
+    },
+    {
+     "name": "The perception of visual phonetic information: Eye-tracking while searching for segmental versus prosodic cues",
+      "publisher":"Proceedings of the 20th International Congress of Phonetic Sciences",
+      "Status": "Published",
+      "releaseDate": "2023-09-15",
+      "url": "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/363.pdf"
+    },
+    {
+      "name": "Contextual effects on spoken word processing: An eye-tracking study of the time course of tone and vowel activation in Mandarin",
+      "publisher":"Journal of Experimental Psychology: Learning, Memory, and Cognition",
+      "releaseDate": "2023-07-10",
+      "url": "https://doi.org/10.1037/xlm0001143"
+    }
+  ],
+  
+  "projects": [
+    {
+      "name": "Linguistic analysis of infant- and child-directed speech in one’s first and second languages.",
+      "startDate": "2024-09-05",
+      "endDate": "2025-02-28"
+    },
+    {
+      "name": "Adaptations in conversation: engaging voices, faces, brains and machines.",
+      "startDate": "2023-09-05",
+      "endDate": "2025-06-30",
+      "url": "http://xizidanielledeng.com/projects/2_project/"
+    },
+    {
+      "name": "L2 English learners' phonetic adaptation to non-native accents.",
+      "startDate": "2023-10-29",
+      "endDate": "2025-06-30",
+      "url": "http://xizidanielledeng.com/projects/1_project/"
+    },
+    {
+      "name": "Visual Processing of Speech Cues.",
+      "startDate": "2017-09-05",
+      "endDate": "2025-06-30",
+      "url": "http://xizidanielledeng.com/projects/3_project/"
+    },
+    {
+      "name": "Simon Fraser University Speech Error Database, Digital Annotated Speech Error Bibliography.",
+      "startDate": "2020-10-16",
+      "endDate": "2021-04-28",
+    },
+    {
+      "name": "Processing tone and vowel information in Mandarin: An eye-tracking study of contextual effects on speech processing.",
+      "startDate": "2017-09-05",
+      "endDate": "2020-04-27",
+      "url": "http://xizidanielledeng.com/projects/4_project/"
+    },
+    {
+      "name": "Foreign language learning and the perception of musical rhythm and melody.",
+      "startDate": "2017-09-05",
+      "endDate": "2019-12-31",
+      "url": "http://xizidanielledeng.com/projects/5_project/"
+    }
+  ],
+
+  
+  "certificates": [
+    {
+      "name": "Data Scientist Associate Certificate",
+      "date": "2020",
+      "issuer": "DataCamp",
+      "url": "https://app.datacamp.com/"
+    },
+    {
+      "name": "Instructional Skills Workshop",
+      "date": "2020",
+      "issuer": "Centre for Educational Excellence, Simon Fraser Univerisity, Canada",
+      "url": "https://www.sfu.ca/cee.html"
+    },
+    {
+      "name": "Foundation Certificate Programme in Cantonese for Chinese Speakers",
+      "date": "2017",
+      "issuer": "Yale-China Chinese Language Academy, The Chinese University of Hong Kong",
+      "url": "https://yccla.cuhk.edu.hk/"
+    },
+    {
+      "name": "Graduate Record Examination (GRE), V-165, Q-168, AW-5",
+      "date": "2017",
+      "issuer": "Educational Testing Service (ETS)",
+      "url": "https://www.ets.org/gre.html"
+    }
+  ],
+ 
+  "skills": [
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "R",
+        "Python",
+        "MatLab",
+        "HTML/JavaScript",
+        "Praat scripting"
+      ]
+    },
+    {
+      "name": "Eyetracking-related",
+      "keywords": [
+        "ExperimentBuilder",
+        "EyeLink",
+        "DataViewer",
+        "Access",
+        "Eyetracking R",
+        "Growth Curve Analysis"
+      ]
+    },
+    {
+      "name": "Others",
+      "keywords": [
+        "Praat",
+        "JsPsych",
+        "Prolific",
+        "SPSS",
+        "Montreal Forced Aligner",
+        "Tandem-STRAIGHT"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "SFU PhD Research Scholarship",
+      "date": "2024-01",
+      "awarder": "Simon Fraser University, Canada",
+      "url": "https://www.sfu.ca/gradstudies/awards-funding/internal-donor-funded/hist.html",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "title": "SFU President's PhD Scholarship",
+      "date": "2023-05",
+      "awarder": "Simon Fraser University, Canada",
+      "url": "https://www.sfu.ca/gradstudies/awards-funding/internal-donor-funded/hist.html",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "title": " Community Trust Endowment Fund (CTEF) Doctoral Graduate Fellowship in Humanities",
+      "date": "2023-05",
+      "awarder": "Simon Fraser University, Canada",
+      "url": "https://www.sfu.ca/gradstudies/awards-funding/internal-donor-funded/hist.html",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "title": " SFU Special Grad Entrance Scholarship",
+      "date": "2017-09",
+      "awarder": "Simon Fraser University, Canada",
+      "url": "https://www.sfu.ca/gradstudies/awards-funding/internal-donor-funded/hist.html",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  
+  "volunteer": [
+    {
+      "organization": "Linguistics Grad Student Association (LGSA), SFU",
+      "startDate": "2025-02-20",
+      "endDate": "2025-06-30",
+      "summary": "Social coordinator"
+    },
+    {
+      "organization": "Teaching Support Staff Union, SFU",
+      "startDate": "2024-09-05",
+      "endDate": "2025-06-30",
+      "summary": "Steward of The Department of Linguistics"
+    },
+    {
+      "organization": "LinguisticsNOW colloquium organizing committee, SFU",
+      "startDate": "2024-09-05",
+      "endDate": "2025-06-30",
+      "summary": "Secretary"
+    }
+  ],
+    
+  "languages": [
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Near-native",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Preparing for the TCF Canada (Test de Connaissance du Français) exam in 2025-09",
+      "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Intermediate",
+      "icon": ""
+    }
+  ]
+}
