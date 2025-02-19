@@ -32,5 +32,5 @@ The inspiration for my dissertation comes from my own experience as a first-gene
 
 Beyond these research fields, I also explore the role of non-linguistic factors, such as musical abilities, in L2 learning—particularly in the acquisition of prosodic features like lexical stress.
 
-Outside of linguistics, I am passionate about teaching Linguistics to undergraduate students and English to ESL learners. I also enjoy reading and writing science fiction novels and am a sci-fi movie enthusiast. I occasionally perform stand-up comedy in Chinese in downtown Vancouver.
+Outside of research, I am passionate about teaching Linguistics to undergraduate students and English to ESL learners. I also enjoy reading and writing science fiction novels and am a sci-fi movie enthusiast. I occasionally perform stand-up comedy in Chinese in downtown Vancouver.
 
