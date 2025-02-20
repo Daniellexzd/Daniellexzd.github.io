@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-spoken-word-recognition-in-contexts",
-          title: 'spoken word recognition in contexts',
+            },},{id: "projects-spoken-word-recognition",
+          title: 'spoken word recognition',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
