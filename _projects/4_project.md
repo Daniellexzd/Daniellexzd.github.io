@@ -1,6 +1,6 @@
 ---
 layout: page
-title: spoken word recognition
+title: spoken word recognition in contexts
 #description: with background image
 img: assets/img/towel.jpg
 importance: 1
