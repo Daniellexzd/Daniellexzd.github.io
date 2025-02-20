@@ -54,6 +54,11 @@ Role: Teaching assistant<br>
 Simon Fraser University<br>
 Role: Teaching assistant<br>
 
+- **LING401 Topics in Phonetics**<br>
+2021 Summer<br>
+Simon Fraser University<br>
+Role: Teaching assistant<br>
+
 
 - **LING362 Introduction to Teaching English as a Second Language to Adults**<br>
 2020 Fall<br>
