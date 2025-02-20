@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "A list of courses I have taught. I intend to take a learner-centred approach in my teaching, focusing on individualized learning trajectories that build upon each student’s unique strengths, and empowering students to take ownership of their own learning process.",
+          description: "A list of courses I have taught. I intend to take a learner-centred approach in my teaching, focusing on individualized learning trajectories that build upon each student’s unique strengths, to empower students to take ownership of their own learning process.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
