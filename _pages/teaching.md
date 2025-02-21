@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: A list of courses I have taught. I intend to take a learner-centred approach in my teaching, focusing on individualized learning trajectories that build upon each student’s unique strengths, to empower students to take ownership of their own learning process.  
+description: A list of courses I have taught. I take a learner-centred approach in my teaching, focusing on individualized learning trajectories that build upon each student’s unique strengths, to empower students to take ownership of their own learning process.  
 nav: true
 nav_order: 5
 ---
