@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: A list of courses I have taught. I take a learner-centred approach in my teaching, focusing on individualized learning trajectories that build upon each student’s unique strengths and empower them to take ownership of their learning process. 
+description: A list of courses I have taught. I take a learner-centred approach in my teaching, focusing on individualized learning trajectories that build upon each student’s unique strengths and empower them to take ownership of their learning process. I have actively participated in workshops at SFU on integrating multilingualism and decolonial teaching practices into the classroom, aiming to foster an inclusive learning environment by incorporating linguistic and cultural diversity into the curriculum in the future.
 nav: true
 nav_order: 5
 ---
