@@ -104,6 +104,18 @@
   
   "certificates": [
     {
+      "name": "Workshop: Decolonial Teaching Circles",
+      "date": "2025",
+      "issuer": "Centre for Educational Excellence, Simon Fraser Univerisity, Canada",
+      "url": "https://www.sfu.ca/cee.html"
+    },
+    {
+      "name": "Workshop: Integrating Multilingualism into Classroom Practices: Embracing Linguistic Diversity",
+      "date": "2025",
+      "issuer": "Centre for Educational Excellence, Simon Fraser Univerisity, Canada",
+      "url": "https://www.sfu.ca/cee.html"
+    },
+    {
       "name": "Data Scientist Associate Certificate",
       "date": "2020",
       "issuer": "DataCamp",
