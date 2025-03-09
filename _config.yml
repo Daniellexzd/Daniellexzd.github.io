@@ -39,7 +39,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
-# will use title and url. 
+# will use title and url and theme
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: true
