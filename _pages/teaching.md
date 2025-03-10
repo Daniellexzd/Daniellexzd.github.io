@@ -10,7 +10,7 @@ nav_order: 5
 - **LING330 Phonetics**<br>
 2018 Fall, 2019 Spring-Summer, 2020 Spring, 2021 Spring-Summer, 2022 Summer, 2023 Summer<br>
 Simon Fraser University<br>
-Supervisor: Yue Wang<br>
+Supervisor: Murray Munro, Yue Wang<br>
 Role: Instructor of the acoustics lab sessions, teaching assistant<br>
 
 
