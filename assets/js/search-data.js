@@ -37,14 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-first-author-paper-on-audio-visual-processing-has-been-published-in-plos-one",
-          title: 'A first-author paper on audio-visual processing has been published in PLOS One!',
-          description: "",
-          section: "News",},{id: "news-a-first-author-study-on-accent-adaptation-has-been-presented-at-new-sounds-2025-in-toronto",
+        },{id: "news-a-first-author-study-on-accent-adaptation-has-been-presented-at-new-sounds-2025-in-toronto",
           title: 'A first-author study on accent adaptation has been presented at New Sounds 2025...',
           description: "",
           section: "News",},{id: "news-a-first-author-paper-on-accent-perception-has-been-accepted-for-publication-in-journal-of-phonetics",
           title: 'A first-author paper on accent perception has been accepted for publication in Journal...',
+          description: "",
+          section: "News",},{id: "news-i-passed-my-phd-dissertation-defence-with-the-result-accepted-as-submitted",
+          title: 'I passed my PhD dissertation defence with the result ‘accepted as submitted’.',
           description: "",
           section: "News",},{id: "projects-accent-adaptation-in-perception",
           title: 'accent adaptation in perception',
