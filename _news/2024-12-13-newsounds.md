@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A first-author study on phonetic recalibration has been presented at LabPhon20 in Montreal!
+A first-author study on phonetic recalibration has been accepted for a poster presentation at LabPhon20 in Montreal!
