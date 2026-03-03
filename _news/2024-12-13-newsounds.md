@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-22 07:59:00-0400
+date: 2026-02-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A first-author study on accent adaptation has been presented at New Sounds 2025 in Toronto!
+A first-author study on phonetic recalibration has been presented at LabPhon20 in Montreal!
