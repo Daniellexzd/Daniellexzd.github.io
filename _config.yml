@@ -37,7 +37,7 @@ repo_trophies:
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
-# RSS Feeds
+# RSS Feeds and others
 # -----------------------------------------------------------------------------
 # will use title and url and theme
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
