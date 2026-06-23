@@ -37,14 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-first-author-paper-on-accent-perception-has-been-accepted-for-publication-in-journal-of-phonetics",
-          title: 'A first-author paper on accent perception has been accepted for publication in Journal...',
-          description: "",
-          section: "News",},{id: "news-i-passed-my-phd-dissertation-defence-with-the-result-accepted-as-submitted",
+        },{id: "news-i-passed-my-phd-dissertation-defence-with-the-result-accepted-as-submitted",
           title: 'I passed my PhD dissertation defence with the result ‘accepted as submitted’.',
           description: "",
           section: "News",},{id: "news-a-first-author-study-on-phonetic-recalibration-has-been-accepted-for-a-poster-presentation-at-labphon20-in-montreal",
           title: 'A first-author study on phonetic recalibration has been accepted for a poster presentation...',
+          description: "",
+          section: "News",},{id: "news-a-first-author-paper-on-associations-between-music-perception-and-production-of-l2-english-lexical-stress-has-been-accepted-for-publication-in-applied-psycholinguistics",
+          title: 'A first-author paper on associations between music perception and production of L2 English...',
           description: "",
           section: "News",},{id: "projects-accent-adaptation-in-perception",
           title: 'accent adaptation in perception',
