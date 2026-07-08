@@ -43,7 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-first-author-study-on-phonetic-recalibration-has-been-presented-at-labphon20-in-montreal",
           title: 'A first-author study on phonetic recalibration has been presented at LabPhon20 in Montreal!...',
           description: "",
-          section: "News",},{id: "news-a-first-author-paper-on-associations-between-music-perception-and-production-of-l2-english-lexical-stress-has-published-in-applied-psycholinguistics",
+          section: "News",},{id: "news-a-first-author-paper-on-associations-between-music-perception-and-production-of-l2-english-lexical-stress-has-been-published-in-applied-psycholinguistics",
           title: 'A first-author paper on associations between music perception and production of L2 English...',
           description: "",
           section: "News",},{id: "projects-accent-adaptation-in-perception",
